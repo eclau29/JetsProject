@@ -6,9 +6,9 @@ Description
 This is a jet simulator where you control what happens with all the jets in an airfield, including the ability to add or remove jets from the airfield.
 
 #### Technologies Used
-GitHub
-Eclipse
-Java
+- GitHub
+- Eclipse
+- Java
 
 
 #### Lessons Learned
