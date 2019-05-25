@@ -1,0 +1,6 @@
+Fighter, Sukhoi Su-57, 1516, 3418, 75000
+Cargo, Myasishchev VM-T, 311, 932, 43700
+JetLuxe, Airbus A319CJ, 541, 6897, 89600000
+Bomber, McDonnell Douglas F-15E Strike Eagle, 1875, 1580, 31100000
+JetImpl, Lockheed Martin SR-71 Blackbird, 2532, 2900, 34000000
+Bomber, Atlas Cheetah(C-Config), 1460, 808, 70000

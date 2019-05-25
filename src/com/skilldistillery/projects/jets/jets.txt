@@ -1,0 +1,4 @@
+Fighter, Sukhoi Su-57, 1516, 3418, 75000
+Cargo, cargoplane1, 1000, 3300, 100000
+JetLuxe, goldleaf, 1200, 3400, 120000
+Bomber, bob-omb, 1300, 5000, 150000
